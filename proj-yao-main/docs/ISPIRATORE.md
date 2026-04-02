@@ -19,3 +19,16 @@ Yao ha inoltre contribuito allo sviluppo teorico della computazione e ha influen
 ## Riconoscimenti
 
 > Nel 2000, Andrew Yao ha ricevuto il prestigioso **Turing Award**, spesso considerato il “Premio Nobel dell’informatica”, per i suoi contributi fondamentali alla teoria della computazione, in particolare nella complessità della comunicazione e nell’analisi degli algoritmi randomizzati.
+
+---
+
+## Video di approfondimento
+
+[The journey of science: Interview with Prof. Andrew Chi-Chih Yao](https://www.youtube.com/watch?v=CN39xZJKOj0)
+
+---
+
+## Fonti
+
+- https://en.wikipedia.org/wiki/Andrew_Yao  
+- https://www.britannica.com/biography/Andrew-Chi-Chih-Yao  
